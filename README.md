@@ -26,6 +26,11 @@ Welcome to our Android Chat Application, a powerful messaging platform developed
 
 ## Application Images
 
+<p align="center">
+  <img src="https://github.com/1224Akhil/Chat-Me/blob/master/1.jpg" width="350" title="hover text">
+  <img src="2.png" width="350" alt="accessibility text">
+</p>
+
 ![Screenshot 1](https://github.com/1224Akhil/Chat-Me/blob/master/1.jpg)
 
 ![Screenshot 2](2.png)
