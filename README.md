@@ -29,6 +29,7 @@ Welcome to our Android Chat Application, a powerful messaging platform developed
 ![Screenshot 1](1.jpg)
 
 ![Screenshot 2](2.png)
+![Screenshot 2](2.png)
 
 ## Acknowledgments
 
