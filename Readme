@@ -1,22 +1,2 @@
-#Android Chat Application
-##Overview
-This Android Chat Application is a feature-rich messaging platform built using Java programming language. It leverages Firebase Database for real-time data synchronization, Zego Cloud for implementing video and audio call functionality, and integrates Google's pretrained TensorFlow Lite model for a smart replies system.
+# Android Chat Application
 
-##Features
-1. Real-Time Messaging: Utilizes Firebase Database for seamless and real-time message synchronization.
-2. Video and Audio Calls: Integrates Zego Cloud for high-quality video and audio calls.
-3. Smart Replies: Implements Google's pretrained TensorFlow Lite model for intelligent and context-aware message suggestions.
-
-##Technologies Used
-1. Java: The primary programming language for Android application development.
-2. Firebase Database: A NoSQL cloud database for real-time data synchronization.
-3. Zego Cloud: Provides SDKs for video and audio communication in real-time applications.
-4. TensorFlow Lite: Google's machine learning framework for deploying machine learning models on mobile devices.
-
-##Requirements
-1. Android Studio
-2. Firebase Project Credentials
-3. Zego Cloud SDK Key
-4. TensorFlow Lite Model
-5. XML
-6. Retrofit
