@@ -25,16 +25,16 @@ Welcome to our Android Chat Application, a powerful messaging platform developed
 - TensorFlow Lite Model
 
 ## Application Images
-
-<p align="center">
-  <img src="https://github.com/1224Akhil/Chat-Me/blob/master/1.jpg" width="350" title="hover text">
-  <img src="2.png" width="350" alt="accessibility text">
-</p>
-
-![Screenshot 1](https://github.com/1224Akhil/Chat-Me/blob/master/1.jpg)
-
-![Screenshot 2](2.png)
-![Screenshot 2](2.png)
+![Screenshot 1](./1.jpg)
+![Screenshot 2](./2.png)
+![Screenshot 2](./3.png)
+![Screenshot 2](./4.png)
+![Screenshot 2](./5.png)
+![Screenshot 2](./6.png)
+![Screenshot 2](./7.png)
+![Screenshot 2](./8.png)
+![Screenshot 2](./9.png)
+![Screenshot 2](./10.png)
 
 ## Acknowledgments
 
